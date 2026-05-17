@@ -62,7 +62,7 @@ ai-cyber-threat-detection-system/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-cyber-threat-detection-system.git
+git clone https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system.git
 
 # Navigate into project folder
 cd ai-cyber-threat-detection-system
