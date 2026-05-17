@@ -73,20 +73,20 @@ pip install -r requirements.txt
 ```
 ---
 
-# ▶️Run the Program
+## ▶️Run the Program
 
-## Start Live Detection
+Step 1. Start Live Detection
 
 ```bash
 python live_detection.py
 ```
-## Launch the Dashboard
+Step 2. Launch the Dashboard
 
 ```bash
 streamlit dashboard.py
 ```
 ---
-# 📌 Future Improvements
+## 📌 Future Improvements
 
 - Add authentication system for dashboard
 - Deploy on cloud (AWS / Azure / Render)
@@ -94,7 +94,7 @@ streamlit dashboard.py
 - Improve ML model accuracy with deep learning
 - Add advanced analytics and alert system
 
-# 📜License
+## 📜License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution.
@@ -102,7 +102,7 @@ You are free to use, modify, and distribute this project with proper attribution
 See the LICENSE file for more details.
 
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by **Utkarsh Shukla**  
 AI/ML Enthusiast | Cybersecurity Learner | Python Developer
