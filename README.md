@@ -60,17 +60,20 @@ ai-cyber-threat-detection-system/
 
 ## 🛠️ Installation & Setup
 
+
+Step 1. Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system.git
-
-# Navigate into project folder
-cd ai-cyber-threat-detection-system
-
-# Install dependencies
-pip install -r requirements.txt
-
 ```
+Step 2. Navigate into project folder
+```bash
+cd ai-cyber-threat-detection-system
+```
+Step 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## ▶️Run the Program
